@@ -1,0 +1,23 @@
+{
+  "name": "crudtrainee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "http": "0.0.1-security",
+    "http-status": "^1.5.0",
+    "joi": "^13.6.0",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.2.5",
+    "nodemon": "^2.0.15"
+  }
+}
